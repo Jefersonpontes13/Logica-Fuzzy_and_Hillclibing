@@ -5,7 +5,15 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hillclibing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hillclibing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regressao_2.m" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/log-Hillclibing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log-Hillclibing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressao9.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +231,7 @@
       <workItem from="1570470136115" duration="690000" />
       <workItem from="1570552938078" duration="7749000" />
       <workItem from="1570574766639" duration="6443000" />
-      <workItem from="1570754339188" duration="30890000" />
+      <workItem from="1570754339188" duration="30939000" />
     </task>
     <servers />
   </component>
