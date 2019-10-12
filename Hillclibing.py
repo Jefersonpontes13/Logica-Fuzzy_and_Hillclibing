@@ -10,8 +10,8 @@ import random
 fig = plt.figure()
 ax = fig.gca(projection='3d')
 
-X = np.arange(0, 20, 1)
-Y = np.arange(0, 20, 1)
+X = np.arange(0, 20.1, 0.1)
+Y = np.arange(0, 20.1, 0.1)
 
 X, Y = np.meshgrid(X, Y)
 Z = abs(X * np.sin(Y * np.pi / 4) + Y * np.sin(X * np.pi / 4))
@@ -72,7 +72,7 @@ def f_pro(p):
 
 arq = open('log-Hillclibing.txt', 'w')
 nt = 1
-while nt <= 50:
+while nt <= 10:
     print("Inicio Tentativa "+str(nt)+"\n\n")
     arq.write("\nTentativa: "+str(nt)+"  ")
     res = f_pro([random.randrange(0, 20, 1), random.randrange(0, 20, 1)])
